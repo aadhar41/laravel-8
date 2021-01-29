@@ -142,6 +142,7 @@
                 // d.status = $('#status').val(); 
                 d.name = $('#name').val(); 
                 d.detail = $('#detail').val(); 
+                d.search = $('input[type="search"]').val();
             }
         },
     
